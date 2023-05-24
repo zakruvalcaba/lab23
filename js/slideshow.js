@@ -76,12 +76,13 @@ const newSlideShow = slideshow()
 
 // CREATE ARRAY OF SLIDES
 const slides = [
-    {href: 'images/backpack.jpg', title: 'Zak used to love to backpack'},
-    {href: 'images/boat.jpg', title: 'Zak loves his boat'},
-    {href: 'images/camaro.jpg', title: 'Zak sold his Camaro'},
-    {href: 'images/punk.jpg', title: 'Zak used to be in a punk band'},
-    {href: 'images/race.jpg', title: 'Zak loves to obstacle course race'},
-    {href: 'images/wakeboard.jpg', title: 'Zak loves to wakeboard'}
+    {href: 'images/backpack.jpg', title: 'He likes to backpack in the Sierras.'},
+    {href: 'images/boat.jpg', title: 'He loves his wake boat.'},
+    {href: 'images/camaro.jpg', title: 'He loves his 67 Camaro.'},
+    {href: 'images/punk.jpg', title: 'He use to be in a punk band.'},
+    {href: 'images/race.jpg', title: 'He loves to obstacle course race.'},
+    {href: 'images/wakeboard.jpg', title: 'He loves to wakeboard.'},
+    {href: 'images/wakesurf.jpg', title: 'He also loves to wakesurf.'}
 ]
 
 // START SLIDESHOW
